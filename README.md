@@ -11,4 +11,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Sto imparando l'italiano e sto ottenendo la mia doppia cittadinanza!
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c462cec5-4fa9-474b-9352-c341e0abe6ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
