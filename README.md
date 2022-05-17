@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m open to collaboration on any projects.
 - 🤔 I’m looking for help growing my network.
-- 💬 Ask me about the environmental benefits of blockchain technology.
+- 💬 Ask me about the environmental benefits of blockchain.
 - 📫 How to reach me: email located in bio
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Sto imparando l'italiano e sto ottenendo la mia doppia cittadinanza!
