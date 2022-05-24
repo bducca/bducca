@@ -1,4 +1,3 @@
-![B DUCCA](https://user-images.githubusercontent.com/88746362/167271417-69d6bb2c-459e-4d5a-880c-0c76fa5f1577.gif)
 
 ### Welcome, I'm Brittany! 👋
 
