@@ -16,6 +16,9 @@
 <!--END_SECTION:badges-->
 
 #### Check out my latest Medium article here:
+<p>
+<a href="https://medium.com/@bducca/what-is-sql-the-super-basics-d4315e34cb81"
+   title=>What is SQL? The Super Bassics</a>
 <p> 
 <a href="https://medium.com/@bducca/how-to-create-a-financial-pro-forma-33a58304b535"
    title=>How to Create a Financial Pro Forma</a>.
