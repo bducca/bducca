@@ -1,7 +1,7 @@
 
 ### Welcome, I'm Brittany! 👋
 
-- 🔭 I’m working on filling out my Github and Medium profiles.
+- 🔭 I’m working on filling out my Github, Kaggle, and Medium profiles.
 - 🌱 I’m currently learning Python.
 - 👯 I’m open to collaboration on any projects.
 - 🤔 I’m looking for help growing my network.
